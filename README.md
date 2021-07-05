@@ -1,2 +1,2 @@
-# nadi.github.io
-membuat CV web
+# Resume-CV-Design-N19
+How to create the Resume/CV Design using HTML and CSS
